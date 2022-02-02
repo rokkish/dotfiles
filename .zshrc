@@ -180,3 +180,7 @@ colors
 eval "$(starship init zsh)"
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
+# setting history
+setopt hist_no_store
+
