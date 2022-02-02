@@ -119,7 +119,7 @@ export GOPATH=$HOME/go
 export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
 
 # alias
-alias vi='nvim'
+#alias vi='nvim'
 alias cat='batcat'
 
 ## exa alias
