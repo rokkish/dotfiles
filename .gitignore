@@ -1,0 +1,42 @@
+# folder
+go
+projects
+setup
+
+# other
+.aws
+.azure
+.cache
+.cargo
+.config
+.docker
+.fonts
+.fzf.zsh
+.fzf
+.gitconfig
+.hyper.js
+.hyper_plugins
+.landscape
+.local
+.motd_shown
+.npm
+.oh-my-zsh
+.pki
+.profile
+.rustup
+.ssh
+.sudo_as_admin_successful
+.viminfo
+.vscode-server
+.wget-hsts
+.zcompdump*
+.zsh
+.zsh_history
+.zshenv
+
+# bash
+.bash_history
+.bash_logout
+.bashrc
+.fzf.bash
+
