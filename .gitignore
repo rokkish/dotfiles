@@ -9,6 +9,7 @@ setup
 .cache
 .cargo
 .config
+.conda
 .docker
 .fonts
 .fzf.zsh
@@ -23,9 +24,13 @@ setup
 .oh-my-zsh
 .pki
 .profile
+.poetry
 .rustup
 .ssh
 .sudo_as_admin_successful
+.tig_history
+.python_history
+.pyenv
 .viminfo
 .vscode-server
 .wget-hsts
